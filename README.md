@@ -11,7 +11,7 @@ A small marketplace where you can browse and insert useful utility, particle ani
 ![zip download showcase](https://github.com/Reaper-1709/Visual-Bukkit-Assets/blob/main/download_zip.png?raw=true)
 
 ## How to contribute
-1. Fork the repository.
+1. Fork the repository with the name in this format: Visual-Bukkit-Assets-{your discord/github username}.
 2. Create a new folder in the assets directory and add your asset into the suitable category.
 3. Include the following files in the folder:
    - block.json file
