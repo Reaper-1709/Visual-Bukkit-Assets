@@ -8,7 +8,7 @@ A small marketplace where you can browse and insert useful utility, particle ani
 4. click on the import button and select the downloaded .zip file.
 5. name the asset and click on ok.
 
-[zip download showcase](https://github.com/Reaper-1709/Visual-Bukkit-Assets/blob/main/download_zip.png?raw=true)
+![zip download showcase](https://github.com/Reaper-1709/Visual-Bukkit-Assets/blob/main/download_zip.png?raw=true)
 
 ## How to contribute
 1. Fork the repository.
